@@ -1,0 +1,2 @@
+# yapayzekadersi
+İGÜMYO-YAZ OKULU YAPAY ZEKA DERS NOTLARI
